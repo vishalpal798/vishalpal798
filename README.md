@@ -39,14 +39,6 @@ Passionate about clean code, performance optimization, and building reliable ful
 
 ---
 
-## 📊 GitHub Stats
-
-![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalpal798&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalpal798&layout=compact)
-
----
-
 ## 📌 Featured Projects
 
 ### 🔹 Chatify – Real-Time Chat Application
