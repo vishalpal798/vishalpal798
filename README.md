@@ -41,9 +41,10 @@ Passionate about clean code, performance optimization, and building reliable ful
 
 ## 📊 GitHub Stats
 
-![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalpal798&show_icons=true&theme=tokyonight)
+![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalpal798&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalpal798&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalpal798&layout=compact&theme=tokyonight&cache_seconds=86400)
+
 
 ---
 
